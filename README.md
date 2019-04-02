@@ -1,0 +1,2 @@
+# dediprogbackup
+auto + smtp + copyfiles
